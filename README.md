@@ -1,1 +1,1 @@
-[![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/KhazanovArtem/store-func/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/KhazanovArtem/store-func/actions/workflows/jekyll-gh-pages.yml)
+
